@@ -1,19 +1,22 @@
-<!-- README.md -->
 
-<h1 align="center">Ricky Steven Silaban</h1>
-<h3 align="center">Fullstack Developer | Scalable Systems & Interactive Frontend Experiences</h3>
+<h1 align="center" style="font-family: 'Poppins', sans-serif; font-weight: 700; letter-spacing: 1px;">
+  Ricky Steven Silaban
+</h1>
+<h3 align="center" style="font-family: 'Inter', sans-serif; font-weight: 400;">
+  Fullstack Developer · Scalable Systems & Interactive Frontend Experiences
+</h3>
 
 ---
 
 ### 🧭 About Me
-I’m a **Fullstack Developer** specializing in crafting scalable systems, creative interfaces, and real-time interactive web applications.  
-Passionate about **modern architecture, clean design systems**, and **3D experiences** that merge technology and art.
+I'm a **Fullstack Developer** passionate about building scalable infrastructures and creative interfaces —  
+bridging **backend performance** with **aesthetic, interactive frontend design**.
 
 ---
 
 ### ⚙️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,go,nestjs,graphql,python,postgresql,mongodb,redis,aws,docker,vercel" height="60" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,postgresql,mysql,tailwind,vite,nextjs,react,go,nestjs,aws,docker,vercel" height="60" />
 </div>
 
 ---
@@ -21,21 +24,17 @@ Passionate about **modern architecture, clean design systems**, and **3D experie
 ### 📈 GitHub Stats
 <div align="center">
 
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rickysilaban15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Ricky%20Steven%20Silaban's%20GitHub%20Stats%20(A+)" height="170" />
-  
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=rickysilaban15&theme=tokyonight&hide_border=true&border_radius=6" height="170" />
+  <!-- Main Stats (loading circle full) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rickysilaban15&show_icons=true&theme=radical&hide_border=false&border_radius=10&rank_icon=github&include_all_commits=true&count_private=true&custom_title=Ricky%20Steven%20Silaban's%20GitHub%20Stats%20(A+)&ring_color=00FFFF" height="170" />
 
-</div>
+  <!-- Streak Graph -->
+  <img src="https://streak-stats.demolab.com?user=rickysilaban15&theme=radical&hide_border=false&border_radius=10" height="170" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickysilaban15&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
 ---
 
-### 🏗️ Featured Projects
+### 🚀 Featured Projects
 <div align="center">
 
 <table>
@@ -45,19 +44,19 @@ Passionate about **modern architecture, clean design systems**, and **3D experie
     <th>Stack</th>
   </tr>
   <tr>
-    <td><a href="https://rickysilaban15.github.io"><b>Portfolio 3D Website</b></a></td>
-    <td>Interactive 3D web experience using Spline & Next.js</td>
-    <td>Next.js, TailwindCSS, Spline</td>
+    <td><b>Portfolio</b></td>
+    <td>Creative personal website showcasing 3D & interactive design</td>
+    <td>Next.js, Tailwind, Vite</td>
   </tr>
   <tr>
-    <td><a href="#"><b>Fullstack Dashboard</b></a></td>
-    <td>Modern admin dashboard with REST & GraphQL APIs</td>
-    <td>NestJS, PostgreSQL, React</td>
+    <td><b>Company Platform</b></td>
+    <td>Enterprise-grade dashboard with scalable architecture</td>
+    <td>Node.js, PostgreSQL, Tailwind</td>
   </tr>
   <tr>
-    <td><a href="#"><b>Microservice Template</b></a></td>
-    <td>Scalable backend structure for distributed systems</td>
-    <td>Go, Docker, Redis</td>
+    <td><b>E-Commerce System</b></td>
+    <td>Fullstack marketplace with real-time order tracking</td>
+    <td>Typescript, MySQL, Next.js</td>
   </tr>
 </table>
 
@@ -67,20 +66,20 @@ Passionate about **modern architecture, clean design systems**, and **3D experie
 
 ### 🌐 Connect With Me
 <div align="center">
-  <a href="https://linkedin.com/in/rickysilaban15" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/ricky-steven-44a8a0292/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/rickysilaban15" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="Twitter/X"/>
+  <a href="https://instagram.com/stev_ky_silaban/?__pwa=1" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45" height="45" alt="Instagram"/>
   </a>
-  <a href="mailto:rickysilaban15@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Gmail"/>
+  <a href="https://wa.me/6287818894504" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="45" height="45" alt="WhatsApp"/>
   </a>
-  <a href="https://instagram.com/rickysilaban15" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" alt="Instagram"/>
+  <a href="https://www.tiktok.com/@ricky_stev26" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" width="45" height="45" alt="TikTok"/>
   </a>
-  <a href="https://rickysilaban15.github.io" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" height="40" alt="Website"/>
+  <a href="https://web.facebook.com/ricki.silaban.1" target="_blank">
+    <img src="https://upload.wikimedia.org/commons/1/1b/Facebook_icon.svg" width="45" height="45" alt="Facebook"/>
   </a>
 </div>
 
@@ -91,12 +90,12 @@ Passionate about **modern architecture, clean design systems**, and **3D experie
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rickysilaban15/rickysilaban15/output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rickysilaban15/rickysilaban15/output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/rickysilaban15/rickysilaban15/output/pacman-contribution-graph.svg" width="100%" style="max-width: 800px; border-radius: 8px;" />
+    <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/rickysilaban15/rickysilaban15/output/pacman-contribution-graph.svg" width="100%" style="max-width: 800px; border-radius: 8px;" />
   </picture>
 </p>
 
 ---
 
 <p align="center">
-  <sub>© 2025 Ricky Steven Silaban — Fullstack Developer | Focused on performance, precision, and creative engineering.</sub>
+  <sub>© 2025 Ricky Steven Silaban — Designed with precision, passion, and performance.</sub>
 </p>
