@@ -67,19 +67,19 @@ bridging **backend performance** with **aesthetic, interactive frontend design**
 ### 🌐 Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/ricky-steven-44a8a0292/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45" height="45" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/stev_ky_silaban/?__pwa=1" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45" height="45" alt="Instagram"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="45" height="45" alt="Instagram"/>
   </a>
   <a href="https://wa.me/6287818894504" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="45" height="45" alt="WhatsApp"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="45" height="45" alt="WhatsApp"/>
   </a>
   <a href="https://www.tiktok.com/@ricky_stev26" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" width="45" height="45" alt="TikTok"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046120.png" width="45" height="45" alt="TikTok"/>
   </a>
   <a href="https://web.facebook.com/ricki.silaban.1" target="_blank">
-    <img src="https://upload.wikimedia.org/commons/1/1b/Facebook_icon.svg" width="45" height="45" alt="Facebook"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width="45" height="45" alt="Facebook"/>
   </a>
 </div>
 
