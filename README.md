@@ -76,7 +76,7 @@ bridging **backend performance** with **aesthetic, interactive frontend design**
     <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="45" height="45" alt="WhatsApp"/>
   </a>
   <a href="https://www.tiktok.com/@ricky_stev26" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046120.png" width="45" height="45" alt="TikTok"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/3116/3116491.png" width="45" height="45" alt="TikTok (white icon)"/>
   </a>
   <a href="https://web.facebook.com/ricki.silaban.1" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width="45" height="45" alt="Facebook"/>
