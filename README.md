@@ -1,52 +1,80 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<!-- README.md -->
 
-###
+<h1 align="center">Ricky Steven Silaban</h1>
+<h3 align="center">Fullstack Developer | Building Scalable, Interactive Web Experiences</h3>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
-
-###
+---
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <a href="https://rickysilaban15.github.io" target="_blank">
+    <img src="https://streak-stats.demolab.com?user=rickysilaban15&theme=tokyonight&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D" height="150" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rickysilaban15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" height="150" />
+  </a>
 </div>
 
-###
+---
+
+### 🧠 About Me
+I'm a **Fullstack Developer** passionate about crafting modern, responsive, and interactive web applications.  
+I enjoy solving complex problems with clean architecture, scalable design patterns, and user-centered development.  
+Currently exploring **Next.js 15, Golang microservices, and AI-driven interfaces**.
+
+---
+
+### ⚙️ Tech Stack
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,go,nestjs,graphql,python,postgresql,mongodb,redis,aws,docker,vercel" height="60" />
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+### 📈 GitHub Insights
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rickysilaban15&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickysilaban15&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</div>
+
+---
+
+### 🏗️ Featured Projects
+
+| Project | Description | Stack |
+|----------|--------------|--------|
+| [**Portfolio 3D Website**](https://rickysilaban15.github.io) | Interactive 3D web experience using Spline & Next.js | Next.js, TailwindCSS, Spline |
+| [**Fullstack Dashboard**](#) | Modern admin dashboard with REST & GraphQL APIs | NestJS, PostgreSQL, React |
+| [**Microservice Template**](#) | Scalable backend structure for distributed apps | Go, Docker, Redis |
+
+---
+
+### 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/rickysilaban15" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+  <a href="https://x.com/rickysilaban15" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+  <a href="mailto:rickysilaban15@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+  <a href="https://instagram.com/rickysilaban15" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+</div>
+
+---
+
+### 📊 Contribution Graph (Interactive Pac-Man Style)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rickysilaban15/rickysilaban15/output/github-contribution-grid-snake.svg" alt="GitHub contribution graph" />
+</p>
+
+---
+
+<p align="center">
+  <sub>© 2025 Ricky Steven Silaban — Fullstack Developer • Crafted with clean code and precision.</sub>
+</p>
