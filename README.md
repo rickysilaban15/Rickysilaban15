@@ -1,55 +1,52 @@
-<!-- README.md -->
+<h1 align="center">Hey 👋What's Up?</h1>
 
-<h1 align="center">Ricky Steven Silaban</h1>
-<h3 align="center">Creative Developer • 3D & Frontend Engineer</h3>
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-<p align="center">
-  <a href="https://rickysilaban15.github.io" target="_blank">
-    <img src="https://github.com/rickysilaban15/rickysilaban15/blob/main/assets/video_20251104_030119_edit-ezgif.com-video-to-gif-converter.gif" 
-         alt="3D Interactive Preview" width="80%" />
-  </a>
-</p>
+###
 
-<p align="center">
-  <a href="https://rickysilaban15.github.io" target="_blank">
-    <b>Visit My Interactive 3D Portfolio →</b>
-  </a>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
----
+###
 
-### About
-I’m a developer passionate about crafting interactive, visually engaging, and meaningful digital experiences.  
-My focus is on blending **3D design, web animation, and modern frontend frameworks** to create products that feel intuitive and alive.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
----
+###
 
-### Expertise
-- Frontend Development (React, Next.js, TailwindCSS)  
-- Interactive 3D Design (Spline, Three.js, React Three Fiber)  
-- UI/UX Implementation & Animation  
-- Web Performance & Modern Design Systems  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
----
-
-### Tools & Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,threejs,git,github,vscode,figma" />
-</p>
-
----
-
-### Connect
-<p align="center">
-  <a href="https://rickysilaban15.github.io" target="_blank">Portfolio</a> •
-  <a href="https://linkedin.com/in/rickysilaban15" target="_blank">LinkedIn</a> •
-  <a href="mailto:rickysilaban15@gmail.com">Email</a>
-</p>
-
----
-
-<p align="center">
-  <sub>© 2025 Ricky Steven Silaban</sub>
-</p>
+###
